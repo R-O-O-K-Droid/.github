@@ -1,7 +1,5 @@
 # Welcome to R.O.O.K Droid 🤖
 
-![ROOK Droid Logo]([link-to-your-logo.png](https://github.com/organizations/R-O-O-K-Droid/settings/profile))
-
 Are you tired of boring, everyday robots that just do what they're told? Well, you've come to the right place because R.O.O.K Droid is not your typical robotics organization. We're on a mission to make the world a more entertaining and slightly mischievous place, one robot at a time!
 
 ## What is R.O.O.K Droid?
